@@ -1,5 +1,5 @@
 CREATE SEQUENCE ydm_secuencia_perfume
-     start with 1
+     start with 0
      increment 1
      minvalue 1
      maxvalue 30
